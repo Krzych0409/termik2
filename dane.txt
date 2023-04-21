@@ -1,2 +1,4 @@
 Separator dziesiętny to kropka (".")
 opoznienie(s) = 0.01
+win7_X = 0
+win7_Y = 0
